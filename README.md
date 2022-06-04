@@ -1,4 +1,4 @@
-# DO Community - Ansible Playbooks
+# Solomon - Ansible Playbooks
 
 A collection of minimalist Ansible playbooks for automating server setups, based on DigitalOcean's Community guides.
 
