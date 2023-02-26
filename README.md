@@ -2,12 +2,12 @@
 
 A collection of minimalist Ansible playbooks for automating server setups, based on DigitalOcean's Community guides.
 
-- [Initial Server Setup for Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/setup_ubuntu1804) *
-- [Apache on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/apache_ubuntu1804)
-- [LEMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/lemp_ubuntu1804)
-- [LAMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/lamp_ubuntu1804)
-- [WordPress with LAMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/wordpress-lamp_ubuntu1804)
-- [Docker on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/docker_ubuntu1804)
+- [Initial Server Setup for Ubuntu 18.04]([https://github.com/solomongana/ansible-playbooks/tree/master/setup_ubuntu1804) *
+- [Apache on Ubuntu 18.04](https://github.com/solomongana/ansible-playbooks/tree/master/apache_ubuntu1804)
+- [LEMP on Ubuntu 18.04](https://github.com/solomongana/ansible-playbooks/tree/master/lemp_ubuntu1804)
+- [LAMP on Ubuntu 18.04](https://github.com/solomongana/ansible-playbooks/tree/master/lamp_ubuntu1804)
+- [WordPress with LAMP on Ubuntu 18.04](https://github.com/solomongana/ansible-playbooks/tree/master/wordpress-lamp_ubuntu1804)
+- [Docker on Ubuntu 18.04](https://github.com/solomongana/ansible-playbooks/tree/master/docker_ubuntu1804)
 
 _\*the Initial Server Setup should be your starting point for fresh servers._
 
@@ -38,7 +38,7 @@ lemp_ubuntu1804
 
 ## Getting Started
 
-To set up your Ansible environment, please follow our guide on [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04).
+To set up your Ansible environment, please the DigitalOcean guide on [How to Install and Configure Ansible on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04).
 
 ### Connection Test
 
