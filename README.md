@@ -1,4 +1,4 @@
-# Solomon - Ansible Playbooks
+# Ansible Playbooks
 
 A collection of minimalist Ansible playbooks for automating server setups, based on DigitalOcean's Community guides.
 
